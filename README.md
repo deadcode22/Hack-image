@@ -3,9 +3,9 @@ Powered By [GhostAttack](https://Telegram.me/Black_Code_22) Team
 Toole Dead Code get Image to send bot Telegram from skript and more ...
 
 ## Screenshot:
-![Screenshot](1.png?raw=ture "Screenshot")
-![Screenshot](2.png?raw=ture "Screenshot")
-![Screenshot](2.png?raw=ture "Screenshot")    
+![1](1.png?raw=ture "Screenshot")
+![2](2.png?raw=ture "Screenshot")
+![3](3.png?raw=ture "Screenshot")    
 
 ### Installation : 
 
