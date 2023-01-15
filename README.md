@@ -25,4 +25,9 @@ Toole Dead Code get Image to send bot Telegram from skript and more ...
 
 > Good Design
 
+## Used :  
+)» 1  == Attack Image 
+
+)» 2  == Attack System 
+
 ### Support Telegram Channel : [Telegram Dead Code](https://t.me/Black_Code_22)
