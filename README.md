@@ -1,5 +1,5 @@
 # Malware
-Powered By [GhostAttack](https://Telegram.me/Black_Code_22) Team
+Powered By [GhostAttack](https://Telegram.me/BlackCode_22) Team
 Toole Dead Code get Image to send bot Telegram from skript and more ...
 
 ## Screenshot:
@@ -30,4 +30,4 @@ Toole Dead Code get Image to send bot Telegram from skript and more ...
 
 > 2  == Attack System 
 
-### Support Telegram Channel : [Telegram Dead Code](https://t.me/Black_Code_22)
+### Support Telegram Channel : [Telegram Dead Code](https://t.me/BlackCode_22)
